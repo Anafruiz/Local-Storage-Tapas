@@ -28,7 +28,7 @@ svg {
 
 .wrapper {
   padding: 20px;
-  min-width: 500px;
+  min-width: 400px;
 
   background: rgba(255, 255, 255, 0.95);
   box-shadow: 0 0 0 10px rgba(0, 0, 0, 0.1);
